@@ -2,7 +2,7 @@
 
 Best practices for article titles, meta titles, meta descriptions, and slugs in B2B copywriting. Brought to you by Open Strategy Partners.
 
-📘 [Show me how to write great meta information!](https://github.com/open-strategy-partners/product-comms-guide/blob/main/titles-meta-guide.md)
+📘 [Show me how to write great meta information!](https://github.com/open-strategy-partners/titles-meta-guide/blob/main/titles-meta-guide.md)
 
 ## Who is this for?
 
