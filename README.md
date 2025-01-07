@@ -13,7 +13,7 @@ This guide is for anyone wanting to write compelling content for technology prod
 We would love your suggestions and feedback. To collaborate on the guide, create an issue in this repo or open a pull request. 
 
 ## License
-The Community Contribution Sprint Guide © 2018-present by Open Strategy Partners GmbH is licensed under CC BY-SA 4.0. See the [license](license) or read more on the Creative Commons page [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
+This guide by Open Strategy Partners GmbH is licensed under CC BY-SA 4.0. See the [license](license) or read more on the Creative Commons page [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
