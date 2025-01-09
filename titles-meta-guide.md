@@ -10,8 +10,13 @@ Unlike business-to-consumer (B2C) marketing, B2B writing is about building relat
 
 * [**Article title**](#article-title)**:** Also known as the Primary heading, Headline, Header or Content title. This text is styled as the H1 and displays on the page with the content.  
 * [**Meta Title**](#meta-title)**:** Also known as the Page Title or Title Tag. This text displays on the browser tab and in the source code of the page. It is read by crawling robots and displays on search engine results pages.  
-* [**Meta description**](#meta-description)**:** This text lives in the source code of the page and displays below the page title on search engine results pages.  
+* [**Meta description**](#meta-descriptions)**:** This text lives in the source code of the page and displays below the page title on search engine results pages.  
 * [**Slug**](#slugs): This is the text that makes up the URL of the webpage where the content is displayed.
+
+|     |  |
+| -------- | ------- |
+| <img src="https://openstrategypartners.com/_assets/processed/kBZZteTB8fm64aBiTZQKR1BhN6G-I_wRN5jD4ryhJ1Q/q:85/c:798:785:fp:0.5:0.5/rt:force/w:560/h:551/fn:Y3NtX01ldGFfdGl0bGVzX2d1aWRlX3BhZ2Vfc2NyZWVuc2hvdF83MjZiMDU3NGY4:t/cb:8edc7698b81ad3ce8a122a1fcc37a6d3e8c2faa7/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL01ldGFfdGl0bGVzX2d1aWRlX3BhZ2Vfc2NyZWVuc2hvdC5wbmc" alt="Annotated screenshot pointing out which bits are meta"/>  | <img src="https://openstrategypartners.com/_assets/processed/wfr3jd8HFyQvhsCY0f2SJJMEnR64oPr0WZ9SsCJaXsM/q:85/c:967:795:fp:0.5:0.5/rt:force/w:560/h:461/fn:Y3NtX01ldGFfdGl0bGVzX2d1aWRlX3NlcnBfMzJlNWYyZDY3ZQ:t/cb:6cd36a9602a9dbc5119a1461585951265c345a63/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL01ldGFfdGl0bGVzX2d1aWRlX3NlcnAucG5n" alt="Annotated screenshot pointing out which bits are meta"/>    |
+
 
 ## Why meta information matters
 
